@@ -10,18 +10,21 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+
 
 Aditya Sapkota's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello Everyone, my name is Aditya Sapkota. I'm Microsoft cloud tech enthusiast with knowledge of the core Cloud Computing concepts, public cloud industry, and Microsoft Cloud (Azure & M365), and a consistent learning attitude fellow.
 
-[✍️ Tell us why you started this challenge]
+I planned to use this 100DaysOfCloud challenge to fuel up my cloud journey primarily focused on Microsoft Azure & alongside I'll dive into M365 Administration, cloud core tech & Devops. Although I am familiar with basic Azure, I'll start from revisiting the basics.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I intend to make this challenge more of manual for myself rather filling up with quick pet projects.
+I am hoping to get deep dive in Microsoft Cloud specializing in Administration & Operation.
+#CloudAdoption
+#CloudMigration
+#CloudTransformation 
 
+At the end of this challenge I willing to get certified on most of Azure Certified & have extensive knowledge on adoption, migration & administration of Azure.
 - [Follow me on Twitter @adibit](https://twitter.com/adibit101)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/adityasapkota)
 
