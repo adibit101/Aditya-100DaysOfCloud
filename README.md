@@ -12,7 +12,7 @@
 
 
 
-Aditya Sapkota's Cloud Journey
+## Aditya Sapkota's Cloud Journey
 
 Hello Everyone, my name is Aditya Sapkota. I'm Microsoft cloud tech enthusiast with knowledge of the core Cloud Computing concepts, public cloud industry, and Microsoft Cloud (Azure & M365), and a consistent learning attitude fellow.
 
